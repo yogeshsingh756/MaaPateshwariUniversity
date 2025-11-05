@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzEn1W+D8yM=",
+  "dgSpecHash": "8ni0vKTSn3M=",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.API\\MaaPateshwariUniversity.API.csproj",
+  "projectFilePath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.API\\MaaPateshwariUniversity.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rames\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\rames\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

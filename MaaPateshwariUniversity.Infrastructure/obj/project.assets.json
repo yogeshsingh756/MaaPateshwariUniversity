@@ -2858,11 +2858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Infrastructure\\MaaPateshwariUniversity.Infrastructure.csproj",
+      "projectUniqueName": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Infrastructure\\MaaPateshwariUniversity.Infrastructure.csproj",
       "projectName": "MaaPateshwariUniversity.Infrastructure",
-      "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Infrastructure\\MaaPateshwariUniversity.Infrastructure.csproj",
+      "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Infrastructure\\MaaPateshwariUniversity.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\rames\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Infrastructure\\obj\\",
+      "outputPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2883,11 +2883,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Application\\MaaPateshwariUniversity.Application.csproj": {
-              "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Application\\MaaPateshwariUniversity.Application.csproj"
+            "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Application\\MaaPateshwariUniversity.Application.csproj": {
+              "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Application\\MaaPateshwariUniversity.Application.csproj"
             },
-            "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Domain\\MaaPateshwariUniversity.Domain.csproj": {
-              "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity.Domain\\MaaPateshwariUniversity.Domain.csproj"
+            "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Domain\\MaaPateshwariUniversity.Domain.csproj": {
+              "projectPath": "C:\\MyProjects\\MPU\\Backend\\MaaPateshwariUniversity\\MaaPateshwariUniversity.Domain\\MaaPateshwariUniversity.Domain.csproj"
             }
           }
         }

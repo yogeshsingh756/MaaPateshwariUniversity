@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaaPateshwariUniversity.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175fbb709bed7fab79d8d6e79825a06968558336")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaaPateshwariUniversity.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaaPateshwariUniversity.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

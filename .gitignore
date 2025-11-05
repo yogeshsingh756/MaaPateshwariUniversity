@@ -1,0 +1,24 @@
+# Visual Studio cache & settings
+.vs/
+*.user
+*.suo
+
+# Build directories
+bin/
+obj/
+
+# Copilot / IDE caches
+*/CopilotIndices/
+*.db
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
+
+# Publish outputs
+publish/
+
+# Sensitive config
+appsettings.*.json
+*.secret.jsonECHO is on.
