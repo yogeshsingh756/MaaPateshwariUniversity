@@ -46,9 +46,17 @@ builder.Services.AddSwaggerGen(c => {
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
-        policy.AllowAnyOrigin()
-              .AllowAnyHeader()
-              .AllowAnyMethod());
+    {
+        policy
+            .WithOrigins(
+                "https://mpublp.abhiworld.in",
+                "http://localhost:3000",
+                "http://localhost:5173"
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials();  // only if you send cookies/auth headers
+    });
 });
 var app = builder.Build();
 // Add OPTIONS handling middleware
