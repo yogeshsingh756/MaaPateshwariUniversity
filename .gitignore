@@ -1,26 +1,22 @@
-# Visual Studio cache & settings
+# Visual Studio cache
 .vs/
-*.user
 *.suo
+*.user
+*.userosscache
+*.sln.DotSettings.user
 
-# Build directories
+# Build folders
 bin/
 obj/
-**/bin/
-**/obj/
 
-# Copilot / IDE caches
-*/CopilotIndices/
+# Copilot Cache / Temp DBs
+**/CopilotIndices/
 *.db
 *.db-shm
 *.db-wal
 
-# Log files
+# Logs
 *.log
 
-# Publish outputs
+# Publish folder
 publish/
-
-# Sensitive config
-appsettings.*.json
-*.secret.json
